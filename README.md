@@ -8,5 +8,9 @@ This aim of this project is to develop a dashboard which displays key informatio
 * 
 
 ### 1.3 Tools Used.
+* **Python**. This will be used to scrape the data from the source and store as a csv for analysis. 
+* **MS Excel**. This will be used
 
-## 2. Project Plan
+## 2. Project Execution
+### Steps to Complete the Project
+1. The most comprihensive and reliable data will be sourced to 
