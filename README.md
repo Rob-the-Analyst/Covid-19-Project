@@ -15,4 +15,4 @@ This aim of this project was to develop a dashboard which displays key informati
 
 ## 2. Project Execution
 ### Steps taken in the Project. 
-1. The data source was chosen based on its comprehensiveness and reliability. The data is extracted from https://ourworldindata.org/covid-deaths.
+1. The data source was chosen based on its comprehensiveness and reliability. *Data Source:* https://ourworldindata.org/covid-deaths.
