@@ -7,10 +7,18 @@ This aim of this project was to develop a dashboard which displays key informati
 ### 1.2 Key Information Selected
 
 
-### 1.3 Data Sources
+
+
+### 1.3 Tools Used
+* **Python** 
+* **MySQL** 
+* **MS Excel**  
+* **Power BI**  
+* **Windows Task Manager**
+
+### 1.4 Data Sources
 **Covid-19 Vaccination Data:** https://ourworldindata.org/covid-deaths.
-
-
+* 
 ## 2. Project Execution
 ### 2.1 Tools Used
 * **Python** 
