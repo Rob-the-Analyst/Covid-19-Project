@@ -2,7 +2,7 @@
 
 ## 1. Projects Aims
 ### 1.1 Project Overview.
-This aim of this project was to develop a dashboard which displays key information about the global roll out of all vaccines administered to combat the Covid-19 virus. The dashboard is then updated regurarly to provide a continuous picture of key various key indicators. Key indicators were chosen based on their relevance and statistical importance to someone seeking a broad picture of the vaccine roll-out. The tools that were used for the project are Python, Excel, Power BI, and Windows Task Manager. 
+This aim of this project was to develop a dashboard which displays key information about the global roll out of all vaccines administered to combat the Covid-19 virus. The dashboard is then updated regurarly to provide a continuous picture of various key indicators. Key indicators were chosen based on their relevance and statistical importance to someone seeking a broad picture of the vaccine roll-out. The tools that were used for the project are Python, Excel, Power BI, and Windows Task Manager. 
 
 ### 1.2 Key Information Extracted. 
 * 
@@ -15,4 +15,4 @@ This aim of this project was to develop a dashboard which displays key informati
 
 ## 2. Project Execution
 ### Steps taken in the Project. 
-1. The most comprehensive and reliable data will be sourced to 
+1. The data source was chosen based on its comprehensiveness and reliability. The data is extracted from https://ourworldindata.org/covid-deaths.
