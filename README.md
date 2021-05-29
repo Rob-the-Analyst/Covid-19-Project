@@ -8,7 +8,7 @@ This aim of this project was to develop a dashboard which displays key informati
 
 
 ### 1.3 Data Sources
-**Covid-19 Vaccination Data:** https://ourworldindata.org/covid-deaths
+**Covid-19 Vaccination Data:** https://ourworldindata.org/covid-deaths.
 
 
 ## 2. Project Plan of Execution
