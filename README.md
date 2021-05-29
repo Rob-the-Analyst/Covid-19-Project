@@ -1,2 +1,2 @@
-# Covid-19 Vaccinations Exploration <u>Python</u> and Power BI 
+# Covid-19 Vaccinations Exploration *Python* and Power BI 
 not header
