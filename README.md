@@ -9,8 +9,9 @@ This aim of this project is to develop a dashboard which displays key informatio
 
 ### 1.3 Tools Used.
 * **Python.** This will be used to scrape the data from the source and store as a csv for analysis. 
-* **MS Excel.**. This will be used to store the data and as the data source for Power BI. 
-* **Power BI.**
+* **MS Excel.** This will be used to store the data and as the data source for Power BI. 
+* **Power BI.** This will be used to extract the data in the stored excel files and to extract the data at regurlar intervals. 
+* **Windows Task Manager**. This will be used to run the Python script at set times to regularly update the excel files.
 
 ## 2. Project Execution
 ### Steps to Complete the Project
