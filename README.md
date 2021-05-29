@@ -15,7 +15,7 @@ This aim of this project was to develop a dashboard which displays key informati
 * **Windows Task Manager**. This is used to run the Python script at set times to regularly update the excel files.
 
 ## 2. Project Execution
-### Steps taken in the Project. 
+### Steps Taken in the Project. 
 1. The data source was chosen based on its comprehensiveness and reliability. *Data Source:* https://ourworldindata.org/covid-deaths.
 2. A Python script was developed to extract the data source from the above link and store it as a csv file. 
 3. Initial data exploration was carried out in SQL 
