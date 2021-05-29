@@ -15,4 +15,4 @@ This aim of this project is to develop a dashboard which displays key informatio
 
 ## 2. Project Execution
 ### Steps to Complete the Project
-1. The most comprihensive and reliable data will be sourced to 
+1. The most comprehensive and reliable data will be sourced to 
