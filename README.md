@@ -1,2 +1,2 @@
-# Covid-19 Vaccinations Project using Python 
+# Covid-19 Vaccinations Exploration Python and Power BI 
 not header
