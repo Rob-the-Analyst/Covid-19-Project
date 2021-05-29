@@ -24,3 +24,6 @@ This aim of this project was to develop a dashboard which displays key informati
 5. Once the Dashboard was completed, a .bat file was created so that Windows Task Manager could run the Python script every hour. This would update the excel files.
 6. Next, a data gateway was set up in the Power BI web portal to create a connection to the Excel data. 
 7. Finally, a scheduled refresh was set up to refresh the dashboard every hour to keep it up to date with the changing data. 
+
+## 3. Repository Files
+
