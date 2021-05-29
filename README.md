@@ -18,4 +18,6 @@ This aim of this project was to develop a dashboard which displays key informati
 ### Steps Taken in the Project. 
 1. The data source was chosen based on its comprehensiveness and reliability. *Data Source:* https://ourworldindata.org/covid-deaths.
 2. A Python script was developed to extract the data source from the above link and store it as a csv file. 
-3. Initial data exploration was carried out in SQL 
+3. Initial data exploration was carried out in MySQL to determine what data was needed to provide key information. 
+4. Once the key information had been determined, relevant graphical representations were chosen to best communicate the data. 
+5. Once the Dashboard was completed, 
