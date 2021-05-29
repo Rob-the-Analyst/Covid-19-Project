@@ -2,7 +2,7 @@
 
 # 1. Project Overview
 ### 1.1 Description
-This aim of this project was to develop a dashboard which displays key information about the global roll out of all vaccines administered to combat the Covid-19 virus. (*Additional Key indicators concerning UK vaccinations are included since this is my country of residence and is therefore relevant to me.*) The dashboard is then updated regurarly to provide a continuous picture of various key indicators. Key indicators were chosen based on their relevance and statistical importance to someone seeking a broad picture of the vaccine roll-out. The tools that were used for the project are Python, Excel, Power BI, MySQL, and Windows Task Manager. 
+This aim of this project was to develop a dashboard which displays key information about the global roll out of all vaccines administered to combat the Covid-19 virus. (*Additional Key indicators concerning UK vaccinations are included since this is my country of residence and is, therefore, relevant to me.*) The dashboard is then updated regurarly to provide a continuous picture of various key indicators. Key indicators were chosen based on their relevance and statistical importance to someone seeking a broad picture of the vaccine roll-out. The tools that were used for the project are Python, Excel, Power BI, MySQL, and Windows Task Manager. 
 
 ### 1.2 Key Information Selected
 
