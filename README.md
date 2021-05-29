@@ -10,11 +10,11 @@ This aim of this project was to develop a dashboard which displays key informati
 
 ## 2. Project Plan of Execution
 ### 2.1 Tools Used
-* **Python.** 
-* **MySQL.** 
-* **MS Excel.**  
-* **Power BI.**  
-* **Windows Task Manager**. 
+* **Python** 
+* **MySQL** 
+* **MS Excel**  
+* **Power BI**  
+* **Windows Task Manager** 
 
 ### Steps Taken in the Project. 
 1. The data source was chosen based on its comprehensiveness and reliability. *Data Source:* https://ourworldindata.org/covid-deaths.
