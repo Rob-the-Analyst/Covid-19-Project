@@ -22,4 +22,18 @@ This aim of this project was to develop a dashboard which displays key informati
 ### 2.1 Scraping Data from Source using Python with BeautifulSoup Library
 
 
+### 2.2 Initial Data Exploration in MySQL
+
+
+### 2.3 Creating Dashboard in Power BI
+
+
+### 2.4 Setting up Data Gateway and Schedule Refresh in Power BI Portal
+
+
+### 2.5 Setting up .bat File and Window task Manager
+
+
+
+
 # 3. Repository Files
