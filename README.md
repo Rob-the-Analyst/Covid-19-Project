@@ -15,7 +15,7 @@ This aim of this project was to develop a dashboard which displays key informati
 * **Windows Task Manager**
 
 ### 1.4 Data Sources
-**Covid-19 Vaccination Data:** https://ourworldindata.org/covid-deaths.
+**Covid-19 Vaccination Data:** https://ourworldindata.org/covid-vaccinations.
 
 # 2. Project Execution
 
