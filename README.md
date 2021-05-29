@@ -7,8 +7,6 @@ This aim of this project was to develop a dashboard which displays key informati
 ### 1.2 Key Information Selected
 
 
-
-
 ### 1.3 Tools Used
 * **Python** 
 * **MySQL** 
@@ -18,8 +16,10 @@ This aim of this project was to develop a dashboard which displays key informati
 
 ### 1.4 Data Sources
 **Covid-19 Vaccination Data:** https://ourworldindata.org/covid-deaths.
-* 
+
 # 2. Project Execution
+
+### 2.1 Scraping Data from Source using Python with BeautifulSoup Library
 
 
 
