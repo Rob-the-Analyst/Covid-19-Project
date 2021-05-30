@@ -57,6 +57,6 @@ df_gov = pd.read_csv('https://coronavirus.data.gov.uk/api/v1/data?filters=areaTy
 df_gov = df_gov.drop(columns = ['areaType','areaName','areaCode'])
 df_gov.to_csv('vaccinations_gov_updated.csv')
 
-# Direct download of vaccinatrion data
+# Direct download of vaccination data
 df_v2 = pd.read_csv('https://github.com/owid/covid-19-data/raw/master/public/data/vaccinations/vaccinations.csv')
 df_v2.to_csv('Vaccinations_updated.csv')
