@@ -1,3 +1,9 @@
+###### This python script is used for the following taks
+###### 1. To scrape a webpage for a csv file containing worldwide vaccination manufacturer data.
+###### 2. Perform a direct csv file download of UK Vaccination data.
+###### 3. Perform a driect csv file download of world vaccination data. 
+###### This script will utilise the BeautifulSoup library for web scraping tasks. 
+
 # Import Libraries
 import pandas as pd
 import numpy as np
