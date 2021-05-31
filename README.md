@@ -46,5 +46,5 @@ In order to update the CSV files before the dashboard pulled data from it, a tas
 # 3. Final Dashboard in Power BI
 ![PowerBI screenshot](https://user-images.githubusercontent.com/51541316/120192656-5ddf1400-c213-11eb-9a6c-9005b0e9f858.PNG)
 
-The dashboard is now updated daily and is fully interactive. 
+## The dashboard is now updated daily and is fully interactive. 
 
