@@ -26,20 +26,21 @@ This aim of this project was to develop a dashboard which displays key informati
 # 2. Project Execution
 
 ### 2.1 Scraping Data from Source using Python with BeautifulSoup Library
-This script was used to pull data from various sources and save them in tubulated form as a CSV file. It also download data in CSV form directly. Details of this process can be found in the Vaccine_update.py and Scrape and Download Data.ipynb files. 
+This script was used to pull data from various sources and save them in tubulated form as a CSV file. It also download data in CSV form directly. Details of this process can be found in the 'Vaccine_update.py' and Scrape and 'Download Data.ipynb' files. 
 
 
 ### 2.2 Initial Data Exploration in MySQL
-
+This step involved initial querying of the data to extract the key parameters outlined in the first section. Details of all queries used can be found in the 'SQL Queries.sql' file. 
 
 ### 2.3 Creating Dashboard in Power BI
+The key information was then visualized in Power BI using relevant visuals. A screenshot the completed dashboard can found as the file 'Power BI screenshot.png'.
 
 
 ### 2.4 Setting up Data Gateway and Schedule Refresh in Power BI Portal
-
+Once the dashboard was complete, it was published to the Power BI web portal. From there, a data gateway was set up to the directory conatining the updated CSV files. Secondly, a scheduled refresh was enabled to update the dashboard daily. 
 
 ### 2.5 Setting up .bat File and Window task Manager
-
+In order to update the CSV files before the dashboard pulled data from it, a task was set up in windows task manager which ran a bat file. The bat file ran the Vaccine_update.py program. This was set up to run daily 1 hour before the Power BI scheduled refresh. 
 
 
 
