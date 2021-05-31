@@ -7,7 +7,7 @@ This aim of this project was to develop a dashboard which displays key informati
 ### 1.2 Key Information Selected
 * Total global vaccinations
 * Top countries for vaccine doses
-* Vaccine Manufacturers by Country
+* Vaccine manufacturers by Country
 * Total vaccinations in the UK
 * Second doses in the UK
 
@@ -26,6 +26,7 @@ This aim of this project was to develop a dashboard which displays key informati
 # 2. Project Execution
 
 ### 2.1 Scraping Data from Source using Python with BeautifulSoup Library
+This 
 
 
 ### 2.2 Initial Data Exploration in MySQL
