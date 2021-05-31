@@ -26,7 +26,7 @@ This aim of this project was to develop a dashboard which displays key informati
 # 2. Project Execution
 
 ### 2.1 Scraping Data from Source using Python with BeautifulSoup Library
-This 
+This script was used to pull data from various sources and save them in tubulated form as a CSV file. It also download data in CSV form directly. Details of this process can be found in the Vaccine_update.py and Scrape and Download Data.ipynb files. 
 
 
 ### 2.2 Initial Data Exploration in MySQL
