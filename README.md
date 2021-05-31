@@ -43,5 +43,5 @@ Once the dashboard was complete, it was published to the Power BI web portal. Fr
 In order to update the CSV files before the dashboard pulled data from it, a task was set up in windows task manager which ran a bat file. The bat file ran the Vaccine_update.py program. This was set up to run daily 1 hour before the Power BI scheduled refresh. 
 
 
+![PowerBI screenshot](https://user-images.githubusercontent.com/51541316/120192656-5ddf1400-c213-11eb-9a6c-9005b0e9f858.PNG)
 
-# 3. Repository Files
