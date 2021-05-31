@@ -33,7 +33,7 @@ This script was used to pull data from various sources and save them in tubulate
 This step involved initial querying of the data to extract the key parameters outlined in the first section. Details of all queries used can be found in the 'SQL Queries.sql' file. 
 
 ### 2.3 Creating Dashboard in Power BI
-The key information was then visualized in Power BI using relevant visuals. A screenshot the completed dashboard can found as the file 'Power BI screenshot.png'.
+The key information was then visualized in Power BI using relevant visuals. A date filter was also added. A screenshot the completed dashboard can found as the file 'Power BI screenshot.png'.
 
 
 ### 2.4 Setting up Data Gateway and Schedule Refresh in Power BI Portal
@@ -45,4 +45,6 @@ In order to update the CSV files before the dashboard pulled data from it, a tas
 
 # 3. Final Dashboard in Power BI
 ![PowerBI screenshot](https://user-images.githubusercontent.com/51541316/120192656-5ddf1400-c213-11eb-9a6c-9005b0e9f858.PNG)
+
+The dashboard is now updated daily and is fully interactive. 
 
